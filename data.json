@@ -1,7 +1,7 @@
 [
     { "nombre": "Cera de soya BPF", "precio_por_gramo": 0.16 },
     { "nombre": "Envase de vidrio B&D 10x9", "precio_por_gramo": 20 },
-    { "nombre": "Envase de vidrio B&D 10x9", "precio_por_gramo": 20 },
+    { "nombre": "Envase de vidrio Copa Flauta", "precio_por_gramo": 20 },
     { "nombre": "Envase de vidrio OLD FASHIN WISKEY", "precio_por_gramo": 31.5 },
     { "nombre": "Envase de vidrio Mermelada tapa Azul 125 ml", "precio_por_gramo": 15 },
     { "nombre": "Envase de vidrio Mermelada tapa Negra 500 ml", "precio_por_gramo": 25.5 },
